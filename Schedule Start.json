@@ -1,0 +1,1 @@
+[{"id":"7c4fe2ad.18012c","type":"change","z":"4d681b5e.5d84d4","name":"","rules":[{"t":"set","p":"start","pt":"global","to":"$round(payload/1000)","tot":"jsonata"}],"action":"","property":"","from":"","to":"","reg":false,"x":620,"y":280,"wires":[[]]}]
